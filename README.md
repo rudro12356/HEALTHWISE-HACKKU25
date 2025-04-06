@@ -4,7 +4,7 @@
 
 ## 🌟 Core Functionalities
 
-HealthWise offers features based on three main entities: **Patient**, **Doctor**, and **Admin**. Each entity has specific functionalities tailored to their needs.
+HealthWise offers features based on three main entities: **Patient**, and **Doctor**. Each entity has specific functionalities tailored to their needs.
 
 ### 🧑‍⚕️ Patient
 
@@ -22,13 +22,6 @@ HealthWise offers features based on three main entities: **Patient**, **Doctor**
 - 💰 Check Earnings
 - 📝 Update Profile
 
-### 🛠️ Admin
-
-- 🔐 Log-in
-- 👨‍⚕️ Create Doctor Profiles
-- 📅 Update / Manage Appointments
-
----
 
 ## 🧱 Tech Stack (Optional Example)
 
