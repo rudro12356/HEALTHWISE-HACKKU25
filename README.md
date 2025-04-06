@@ -29,9 +29,7 @@ HealthWise offers features based on three main entities: **Patient**, **Doctor**
 - 📅 Update / Manage Appointments
 
 
-## 🧱 Tech Stack (Optional Example)
-
-> You can edit this section based on what you're using.
+## 🧱 Tech Stack
 
 - Frontend: React / TAILWIND-CSS
 - Backend: Express.js / HYPERLEDGER FABRIC
