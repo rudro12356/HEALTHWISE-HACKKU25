@@ -1,10 +1,10 @@
 ## HEALTHWISE : HACKKU 2025
 
-**HealthWise** is a healthcare web application designed to connect patients, doctors, and administrators on a unified platform. It simplifies appointment booking, health monitoring, and profile management for various user roles. 
+**HealthWise** is a healthcare web application designed to connect patients and doctors on a unified platform. It simplifies appointment booking, health monitoring, and profile management for doctor/ patient user roles. The web3 app also makes sure that all the data are securely stored inside the Hyperledger Fabric.
 
 ## 🌟 Core Functionalities
 
-HealthWise offers features based on three main entities: **Patient**, and **Doctor**. Each entity has specific functionalities tailored to their needs.
+HealthWise offers features based on three main entities: **Patient**, **Doctor** and **Admin**. Each entity has specific functionalities tailored to their needs.
 
 ### 🧑‍⚕️ Patient
 
@@ -21,6 +21,12 @@ HealthWise offers features based on three main entities: **Patient**, and **Doct
 - 📅 Update / Manage Appointments
 - 💰 Check Earnings
 - 📝 Update Profile
+
+### 🛠️ Admin
+
+- 🔐 Log-in
+- 👨‍⚕️ Create Doctor Profiles
+- 📅 Update / Manage Appointments
 
 
 ## 🧱 Tech Stack (Optional Example)
