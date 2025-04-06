@@ -35,3 +35,5 @@ HealthWise offers features based on three main entities: **Patient**, **Doctor**
 - Backend: Express.js / HYPERLEDGER FABRIC
 - Database: MongoDB
 - Authentication: JWT
+
+## Members: Rudro, Absar, Saeed, Rizvee
