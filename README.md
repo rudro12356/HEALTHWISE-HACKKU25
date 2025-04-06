@@ -33,12 +33,7 @@ HealthWise offers features based on three main entities: **Patient**, **Doctor**
 
 > You can edit this section based on what you're using.
 
-- Frontend: React / HTML / CSS
-- Backend: Node.js / Django / Flask
-- Database: MySQL / MongoDB
-- Authentication: Firebase Auth / JWT
-- Hosting: Heroku / Vercel
-
----
-
-## Let's Go
+- Frontend: React / TAILWIND-CSS
+- Backend: Express.js / HYPERLEDGER FABRIC
+- Database: MongoDB
+- Authentication: JWT
