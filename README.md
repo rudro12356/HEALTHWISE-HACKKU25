@@ -4,7 +4,7 @@
 
 ## Demo
 
-https://youtu.be/zjG5OynClz4
+[![YouTube](http://i.ytimg.com/vi/zjG5OynClz4/hqdefault.jpg)](https://www.youtube.com/watch?v=zjG5OynClz4)
 
 ## 🌟 Core Functionalities
 
