@@ -2,6 +2,10 @@
 
 **HealthWise** is a healthcare web application designed to connect patients and doctors on a unified platform. It simplifies appointment booking, health monitoring, and profile management for doctor/ patient user roles. The web3 app also makes sure that all the data are securely stored inside the Hyperledger Fabric.
 
+## Demo
+
+https://youtu.be/zjG5OynClz4
+
 ## 🌟 Core Functionalities
 
 HealthWise offers features based on three main entities: **Patient**, **Doctor** and **Admin**. Each entity has specific functionalities tailored to their needs.
